@@ -1,0 +1,14 @@
+a {
+    text-decoration:underline 
+}
+.center{ 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bigfontsize{
+font-size: 15px
+}
+.color{
+    color:aqua
+}
